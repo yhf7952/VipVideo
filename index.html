@@ -166,7 +166,7 @@ http://v.2gty.com/apiurl/yun.php?url=</textarea>
 		});
 	    function init(){
 		    var ckapi = $.cookie("apiList");
-		    if(ckapi != ""){
+		    if(ckapi && ckapi != ""){
 			    $("#apiList").val(ckapi);
 		    }
 		    setApi();
