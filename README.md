@@ -18,4 +18,4 @@
 
 ## 更多API及详细说明
 
-https://yantuz.cn/466.html
+https://bak.yantuz.cn:8000/466.html
